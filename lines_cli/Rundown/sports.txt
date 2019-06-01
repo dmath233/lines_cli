@@ -1,0 +1,57 @@
+{
+    "sports": [
+        {
+            "dates": [],
+            "sport_id": 1,
+            "sport_name": "NCAA Football"
+        },
+        {
+            "dates": [],
+            "sport_id": 2,
+            "sport_name": "NFL"
+        },
+        {
+            "dates": [
+                1559257500,
+                1559261100,
+                1559347500
+            ],
+            "sport_id": 3,
+            "sport_name": "MLB"
+        },
+        {
+            "dates": [
+                1559265000
+            ],
+            "sport_id": 4,
+            "sport_name": "NBA"
+        },
+        {
+            "dates": [],
+            "sport_id": 5,
+            "sport_name": "NCAA Men's Basketball"
+        },
+        {
+            "dates": [
+                1559434380
+            ],
+            "sport_id": 6,
+            "sport_name": "NHL"
+        },
+        {
+            "dates": [],
+            "sport_id": 7,
+            "sport_name": "UFC/MMA"
+        },
+        {
+            "dates": [],
+            "sport_id": 8,
+            "sport_name": "WNBA"
+        },
+        {
+            "dates": [],
+            "sport_id": 9,
+            "sport_name": "CFL"
+        }
+    ]
+}

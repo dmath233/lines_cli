@@ -1,0 +1,69 @@
+{
+    "affiliates": [
+        {
+            "affiliate_id": 1,
+            "affiliate_name": "5Dimes",
+            "affiliate_url": "https://affiliates.5dimes.eu/tracking/Affiliate.asp?idBook=1&mediaTypeID=220&AffUrlID=8199&LandingPageID=27"
+        },
+        {
+            "affiliate_id": 3,
+            "affiliate_name": "Pinnacle",
+            "affiliate_url": "https://www.pinnacle.com/en/rtn"
+        },
+        {
+            "affiliate_id": 7,
+            "affiliate_name": "Bookmaker",
+            "affiliate_url": "http://www.bookmaker.eu/?cmpid=20817_420"
+        },
+        {
+            "affiliate_id": 16,
+            "affiliate_name": "Matchbook",
+            "affiliate_url": "https://www.matchbook.com/"
+        },
+        {
+            "affiliate_id": 6,
+            "affiliate_name": "BetOnline",
+            "affiliate_url": "https://betonline.ag/?RAF=G2I7JCNS&product=SPO"
+        },
+        {
+            "affiliate_id": 17,
+            "affiliate_name": "RedZone",
+            "affiliate_url": "https://www.redzonesports.bet/en/sports/"
+        },
+        {
+            "affiliate_id": 11,
+            "affiliate_name": "LowVig",
+            "affiliate_url": "https://sportsbook.lowvig.ag/"
+        },
+        {
+            "affiliate_id": 10,
+            "affiliate_name": "JustBet",
+            "affiliate_url": "http://www.justbet.cx/sportsbook-betting"
+        },
+        {
+            "affiliate_id": 4,
+            "affiliate_name": "SportsBetting",
+            "affiliate_url": " https://sportsbetting.ag/?RAF=JXEK3M5D&product=SPO"
+        },
+        {
+            "affiliate_id": 9,
+            "affiliate_name": "betcris",
+            "affiliate_url": "https://www.betcris.com/en/sportsbook"
+        },
+        {
+            "affiliate_id": 15,
+            "affiliate_name": "TigerGaming",
+            "affiliate_url": "https://sportsbook.tigergaming.com/"
+        },
+        {
+            "affiliate_id": 14,
+            "affiliate_name": "Intertops",
+            "affiliate_url": "https://sports.intertops.eu/"
+        },
+        {
+            "affiliate_id": 18,
+            "affiliate_name": "YouWager",
+            "affiliate_url": "https://www.youwager.eu/sportsbook"
+        }
+    ]
+}
